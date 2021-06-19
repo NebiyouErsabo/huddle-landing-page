@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Desktop_design)
+![](./Desktop_design.png)
 ### Links
 - Live Site URL: https://nebiyouersabo.github.io/huddle-landing-page/
 
