@@ -27,7 +27,7 @@ Users should be able to:
 
 ![](./Desktop_design)
 ### Links
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://nebiyouersabo.github.io/huddle-landing-page/
 
 ## My process
 
